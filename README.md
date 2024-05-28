@@ -38,6 +38,10 @@ The ERD serves as the blueprint for the database, outlining the relationships be
 5. **Payments and Orders**: One-to-many relationship.
 6. **Returns and Orders/Stock**: Two one-to-many relationships.
 
+
+<img width="1002" alt="Screenshot 2024-04-26 at 18 15 10" src="https://github.com/mohamedabdelnasser414/HomeHarbor-Essentials-Database-SQL-Project/assets/56372404/21ea3969-0b97-4720-a50d-68544f0c4709">
+
+
 ## Database Population
 
 The database is populated with dummy data to simulate real-world operations. This ensures the integrity and functionality of the database design.
@@ -67,3 +71,7 @@ A trigger is created to update stock levels whenever a sale takes place, ensurin
 The project includes the creation of a DataMart, integrating views from queries 1, 3, and 4 to facilitate efficient data analysis.
 
 Please find SQL Project Script: https://github.com/mohamedabdelnasser414/HomeHarbor-Essentials-Database-SQL-Project/blob/main/ProjectScript.sql
+
+
+
+
