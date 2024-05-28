@@ -525,7 +525,7 @@ CREATE DATABASE HomeHarborDM;
 
 USE HomeHarborDM;
 
--- Adding Views from  (Questions 1, 3 and 4 ONLY) to HomeHarbor DataMart
+-- Adding Views 1, 3 and 4 ONLY to HomeHarbor DataMart
 
 Create Table HomeHarborDM.weeklytransactions SELECT * FROM HomeHarbor.weeklytransactions;
 
